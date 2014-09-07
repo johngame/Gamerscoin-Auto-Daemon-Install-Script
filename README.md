@@ -10,6 +10,7 @@ Good for instand Gamerscoin node setup too.
 How to use :
 
 chown 0777 gamerscoin-easy.sh
+
 ./gamerscoin-easy.sh
 
 Now Just wait for your Gamerscoin Daemon.
